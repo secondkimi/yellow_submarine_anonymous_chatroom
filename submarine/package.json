@@ -5,7 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "meteor-node-stubs": "~0.2.0",
     "react": "^15.4.2",
     "react-addons-create-fragment": "^15.4.2",
